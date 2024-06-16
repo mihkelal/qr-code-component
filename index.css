@@ -6,6 +6,10 @@
 }
 
 body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
   background-color: hsl(var(--light-gray));
   font-family: "Outfit", sans-serif;
   font-size: 15px;
